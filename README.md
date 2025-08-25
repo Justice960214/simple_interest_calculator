@@ -1,7 +1,5 @@
 # simple_interest_calculator
 
-# Simple Interest Calculator
-
 This project provides a shell script to calculate **simple interest** based on:
 - Principal amount
 - Rate of interest
