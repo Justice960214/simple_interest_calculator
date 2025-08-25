@@ -1,2 +1,13 @@
 # simple_interest_calculator
-A shell script to calculate simple interest. Includes license, README, and contribution guidelines
+
+# Simple Interest Calculator
+
+This project provides a shell script to calculate **simple interest** based on:
+- Principal amount
+- Rate of interest
+- Time (in years)
+
+## Usage
+Run the script:
+```bash
+bash simple-interest.sh
